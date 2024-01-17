@@ -1,0 +1,5 @@
+define start (x,y:integer; var sum: integer)
+constants pie = 3
+variables counter, butt : integer
+    butt := 3
+    Write butt
